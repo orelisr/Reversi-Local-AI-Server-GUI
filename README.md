@@ -2,7 +2,6 @@
 A project in "Advanced Programming" course.<br/>
 Reversi game in C++ with Java FXML GUI.<br/>
 The game offers the user the visual positions of their next possible moves using black or white dots.<br/>
-Including Local, AI and Online multiplayer features.<br/>
 The game supports 3 different types of gaming experiences:<br/>
 1. Player vs Player on the same machine<br/>
 2. Player vs Min-Max AI<br/>
